@@ -1,0 +1,557 @@
+# depslib dependency file v1.0
+1262817533 source:/home/giova/workspace/Lo Re 2/Card.h
+	<iostream>
+
+1269244778 source:/home/giova/workspace/Lo Re 2/main.cpp
+	<iostream>
+	"Game.h"
+
+1269199249 /home/giova/workspace/Lo Re 2/Card.h
+	<string>
+
+1269199229 source:/home/giova/workspace/Lo Re 2/Card.cpp
+	<iostream>
+	<string>
+	<sstream>
+	"Card.h"
+
+1269242993 source:/home/giova/workspace/Lo Re 2/Deck.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"loRe2.h"
+	"Deck.h"
+	"gameState.h"
+
+1268952624 /home/giova/workspace/Lo Re 2/Deck.h
+	<list>
+	"Card.h"
+	"gameState.h"
+
+1269243260 /home/giova/workspace/Lo Re 2/gameState.h
+	"player.h"
+	"Card.h"
+
+1269243381 /home/giova/workspace/Lo Re 2/player.h
+	<string>
+
+1269244536 source:/home/giova/workspace/Lo Re 2/Game.cpp
+	<iostream>
+	<sstream>
+	<fstream>
+	<string>
+	"Card.h"
+	"Role.h"
+	"Game.h"
+	"player.h"
+	"gameState.h"
+	"interface.h"
+	"loRe2.h"
+
+1269185897 /home/giova/workspace/Lo Re 2/Role.h
+	"Deck.h"
+	"Choice.h"
+	"player.h"
+	"option.h"
+	"gameState.h"
+	<string>
+
+1269244641 /home/giova/workspace/Lo Re 2/Game.h
+	"Role.h"
+	"gameState.h"
+
+1269013691 source:/home/giova/workspace/Lo Re 2/Choice.cpp
+	"Choice.h"
+	<iostream>
+	<list>
+
+1269013618 /home/giova/workspace/Lo Re 2/Choice.h
+	<list>
+	"Card.h"
+	"option.h"
+
+1269030995 /home/giova/workspace/Lo Re 2/option.h
+	"Card.h"
+
+1269243135 /home/giova/workspace/Lo Re 2/loRe2.h
+
+1269243236 source:/home/giova/workspace/Lo Re 2/Role.cpp
+	<iostream>
+	<string>
+	<sstream>
+	"Role.h"
+	"Choice.h"
+	"interface.h"
+	"loRe2.h"
+
+1269199229 source:/home/giova/workspace/Lo Re 2/checks.cpp
+	"Card.h"
+	"loRe2.h"
+
+1269243304 source:/home/giova/workspace/Lo Re 2/interface.cpp
+	<iostream>
+	<sstream>
+	<ios>
+	<limits>
+	"interface.h"
+	"loRe2.h"
+	"gameState.h"
+	"player.h"
+	"Choice.h"
+
+1268498467 source:/home/giova/workspace/Lo Re 2/test/t1_card.cpp
+	<iostream>
+	"../Card.h"
+
+1268561986 source:/home/giova/workspace/Lo Re 2/test/t2_deck.cpp
+	<iostream>
+	"../Deck.h"
+
+1269243364 source:/home/giova/workspace/Lo Re 2/test/t3_checks.cpp
+	"../Card.h"
+	<iostream>
+
+1267189784 source:/home/giova/workspace/Lo Re 2/test/t4_choice.cpp
+	"../Choice.h"
+	<iostream>
+
+1268592567 source:/home/giova/workspace/Lo Re 2/test/t5_role.cpp
+	"../Role.h"
+	"../loRe2.h"
+	"../gameState.h"
+	<iostream>
+	<string>
+
+1269243404 source:/home/giova/workspace/Lo Re 2/test/t6_interface.cpp
+	"../loRe2.h"
+	"../interface.h"
+	"../gameState.h"
+	"../Deck.h"
+	"../Choice.h"
+	<iostream>
+
+1267189891 source:/home/giova/workspace/Lo Re 2/test/t7_game.cpp
+	"../Game.h"
+	<iostream>
+
+1266593665 source:/home/giova/workspace/Lo Re 2/test/test_all.cpp
+	<iostream>
+
+1269244114 source:/home/giova/workspace/Lo Re 2/role-exchanges.cpp
+	"option.h"
+	"Role.h"
+	"interface.h"
+	"loRe2.h"
+
+1268592423 source:/home/giova/workspace/Lo Re 2/role-constructors.cpp
+	"Role.h"
+	"loRe2.h"
+
+1269244715 source:/home/giova/workspace/Lo Re 2/game-start.cpp
+	"Game.h"
+	"loRe2.h"
+
+1269243135 /home/giova/workspace/Lo Re 2/interface.h
+	<string>
+	"Deck.h"
+	"Choice.h"
+
+1270974187 source:/media/dati/Archivio condiviso/Informatica/Workspace/Lo Re 2/Card.cpp
+	<iostream>
+	<string>
+	<sstream>
+	"Card.h"
+
+1270916217 /media/dati/Archivio condiviso/Informatica/Workspace/Lo Re 2/Card.h
+	<string>
+
+1271019506 source:/media/dati/Archivio condiviso/Informatica/Workspace/Lo Re 2/Choice.cpp
+	"Choice.h"
+	<iostream>
+	<list>
+
+1270977521 /media/dati/Archivio condiviso/Informatica/Workspace/Lo Re 2/Choice.h
+	<list>
+	"Card.h"
+	"option.h"
+
+1270915232 /media/dati/Archivio condiviso/Informatica/Workspace/Lo Re 2/option.h
+	"Card.h"
+
+1271190247 source:/media/dati/Archivio condiviso/Informatica/Workspace/Lo Re 2/Deck.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"loRe2.h"
+	"Deck.h"
+	"gameState.h"
+
+1271192551 /media/dati/Archivio condiviso/Informatica/Workspace/Lo Re 2/loRe2.h
+
+1271107538 /media/dati/Archivio condiviso/Informatica/Workspace/Lo Re 2/Deck.h
+	<list>
+	"loRe2.h"
+	"Card.h"
+	"Choice.h"
+	"gameState.h"
+
+1270915530 /media/dati/Archivio condiviso/Informatica/Workspace/Lo Re 2/gameState.h
+	"player.h"
+	"Card.h"
+
+1270915258 /media/dati/Archivio condiviso/Informatica/Workspace/Lo Re 2/player.h
+	<string>
+
+1271110977 source:/media/dati/Archivio condiviso/Informatica/Workspace/Lo Re 2/Game.cpp
+	<iostream>
+	<sstream>
+	<fstream>
+	<string>
+	"Card.h"
+	"Role.h"
+	"Game.h"
+	"player.h"
+	"gameState.h"
+	"interface.h"
+	"loRe2.h"
+
+1270917189 /media/dati/Archivio condiviso/Informatica/Workspace/Lo Re 2/Role.h
+	"Deck.h"
+	"Choice.h"
+	"player.h"
+	"option.h"
+	"gameState.h"
+	"loRe2.h"
+	<string>
+
+1270989199 /media/dati/Archivio condiviso/Informatica/Workspace/Lo Re 2/Game.h
+	"Role.h"
+	"gameState.h"
+
+1271023658 /media/dati/Archivio condiviso/Informatica/Workspace/Lo Re 2/interface.h
+	<string>
+	"Deck.h"
+	"Choice.h"
+
+1270996195 source:/media/dati/Archivio condiviso/Informatica/Workspace/Lo Re 2/Role.cpp
+	<iostream>
+	<string>
+	<sstream>
+	"Role.h"
+	"Choice.h"
+	"interface.h"
+	"loRe2.h"
+
+1270143528 source:/media/dati/Archivio condiviso/Informatica/Workspace/Lo Re 2/game-start.cpp
+	<cstdlib>
+	<ctime>
+	"Game.h"
+	"loRe2.h"
+	"interface.h"
+
+1271192359 source:/media/dati/Archivio condiviso/Informatica/Workspace/Lo Re 2/main.cpp
+	<iostream>
+	"interface.h"
+	"Game.h"
+	"loRe2.h"
+
+1268592423 source:/media/dati/Archivio condiviso/Informatica/Workspace/Lo Re 2/role-constructors.cpp
+	"Role.h"
+	"loRe2.h"
+
+1269244114 source:/media/dati/Archivio condiviso/Informatica/Workspace/Lo Re 2/role-exchanges.cpp
+	"option.h"
+	"Role.h"
+	"interface.h"
+	"loRe2.h"
+
+1270151536 source:/media/dati/Archivio condiviso/Informatica/Workspace/Lo Re 2/test/t1_card.cpp
+	<iostream>
+	"../Card.h"
+
+1270978863 source:/media/dati/Archivio condiviso/Informatica/Workspace/Lo Re 2/test/t2_deck.cpp
+	<iostream>
+	"../loRe2.h"
+	"../Deck.h"
+
+1269243364 source:/media/dati/Archivio condiviso/Informatica/Workspace/Lo Re 2/test/t3_checks.cpp
+	"../Card.h"
+	<iostream>
+
+1267189784 source:/media/dati/Archivio condiviso/Informatica/Workspace/Lo Re 2/test/t4_choice.cpp
+	"../Choice.h"
+	<iostream>
+
+1268592567 source:/media/dati/Archivio condiviso/Informatica/Workspace/Lo Re 2/test/t5_role.cpp
+	"../Role.h"
+	"../loRe2.h"
+	"../gameState.h"
+	<iostream>
+	<string>
+
+1270143198 source:/media/dati/Archivio condiviso/Informatica/Workspace/Lo Re 2/test/t6_interface.cpp
+	"../loRe2.h"
+	"../interface.h"
+	"../gameState.h"
+	"../Role.h"
+	"../Choice.h"
+	<iostream>
+
+1267189891 source:/media/dati/Archivio condiviso/Informatica/Workspace/Lo Re 2/test/t7_game.cpp
+	"../Game.h"
+	<iostream>
+
+1271192771 source:/media/dati/Archivio condiviso/Informatica/Workspace/Lo Re 2/test/test_all.cpp
+	<iostream>
+	"../interface.h"
+
+1271192353 source:/media/dati/Archivio condiviso/Informatica/Workspace/Lo Re 2/interface.cpp
+	<iostream>
+	<sstream>
+	<limits>
+	<string>
+	"interface.h"
+	"loRe2.h"
+	"gameState.h"
+	"player.h"
+	"Choice.h"
+	"Role.h"
+
+1270371656 source:/media/dati/Archivio condiviso/Informatica/Workspace/Lo Re 2/test/t3_choice.cpp
+	"../Choice.h"
+	<iostream>
+
+1270214001 source:/media/dati/Archivio condiviso/Informatica/Workspace/Lo Re 2/test/t4_role.cpp
+	"../Role.h"
+	"../loRe2.h"
+	"../gameState.h"
+	<iostream>
+	<string>
+
+1271192468 source:/media/dati/Archivio condiviso/Informatica/Workspace/Lo Re 2/test/t5_interface.cpp
+	<iostream>
+	"../gameState.h"
+	"../Role.h"
+	"../Choice.h"
+	"../loRe2.h"
+	"../interface.h"
+
+1267189891 source:/media/dati/Archivio condiviso/Informatica/Workspace/Lo Re 2/test/t6_game.cpp
+	"../Game.h"
+	<iostream>
+
+1271104580 source:/media/dati/Archivio condiviso/Informatica/Workspace/Lo Re 2/playCard.cpp
+	<iostream>
+	"Card.h"
+	"Deck.h"
+	"Choice.h"
+	"interface.h"
+	"loRe2.h"
+
+1271192189 source:/media/dati/Archivio condiviso/Informatica/Workspace/Lo Re 2/Game-start.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"Game.h"
+	"loRe2.h"
+	"interface.h"
+
+1271109941 source:/media/dati/Archivio condiviso/Informatica/Workspace/Lo Re 2/Role-exchanges.cpp
+	<iostream>
+	"option.h"
+	"Role.h"
+	"interface.h"
+	"loRe2.h"
+
+1271191597 source:/media/dati/Archivio condiviso/Informatica/Workspace/Lo Re 2/interface-msg.cpp
+	<iostream>
+	<string>
+	"loRe2.h"
+	"interface.h"
+	"gameState.h"
+	"player.h"
+	"Card.h"
+	"Role.h"
+
+1337726654 source:c:\users\giova\workspace\lo re 2\card.cpp
+	<iostream>
+	<string>
+	<sstream>
+	"Card.h"
+
+1270916217 c:\users\giova\workspace\lo re 2\card.h
+	<string>
+
+1337726654 source:c:\users\giova\workspace\lo re 2\choice.cpp
+	"Choice.h"
+	<iostream>
+	<list>
+
+1270977521 c:\users\giova\workspace\lo re 2\choice.h
+	<list>
+	"Card.h"
+	"option.h"
+
+1270915232 c:\users\giova\workspace\lo re 2\option.h
+	"Card.h"
+
+1337726654 source:c:\users\giova\workspace\lo re 2\deck.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"loRe2.h"
+	"Deck.h"
+	"gameState.h"
+
+1271192551 c:\users\giova\workspace\lo re 2\lore2.h
+
+1271107538 c:\users\giova\workspace\lo re 2\deck.h
+	<list>
+	"loRe2.h"
+	"Card.h"
+	"Choice.h"
+	"gameState.h"
+
+1270915530 c:\users\giova\workspace\lo re 2\gamestate.h
+	"player.h"
+	"Card.h"
+
+1270915258 c:\users\giova\workspace\lo re 2\player.h
+	<string>
+
+1337726654 source:c:\users\giova\workspace\lo re 2\game-start.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"Game.h"
+	"loRe2.h"
+	"interface.h"
+
+1270989199 c:\users\giova\workspace\lo re 2\game.h
+	"Role.h"
+	"gameState.h"
+
+1271269106 c:\users\giova\workspace\lo re 2\role.h
+	"Deck.h"
+	"Choice.h"
+	"player.h"
+	"option.h"
+	"gameState.h"
+	"loRe2.h"
+	<string>
+
+1271023658 c:\users\giova\workspace\lo re 2\interface.h
+	<string>
+	"Deck.h"
+	"Choice.h"
+
+1337726654 source:c:\users\giova\workspace\lo re 2\game.cpp
+	<iostream>
+	<sstream>
+	<fstream>
+	<string>
+	"Card.h"
+	"Role.h"
+	"Game.h"
+	"player.h"
+	"gameState.h"
+	"interface.h"
+	"loRe2.h"
+
+1337726654 source:c:\users\giova\workspace\lo re 2\role-exchanges.cpp
+	<iostream>
+	"option.h"
+	"Role.h"
+	"interface.h"
+	"loRe2.h"
+
+1337726654 source:c:\users\giova\workspace\lo re 2\role.cpp
+	<iostream>
+	<string>
+	<sstream>
+	"Role.h"
+	"Choice.h"
+	"interface.h"
+	"loRe2.h"
+
+1337726654 source:c:\users\giova\workspace\lo re 2\interface-msg.cpp
+	<iostream>
+	<string>
+	"loRe2.h"
+	"interface.h"
+	"gameState.h"
+	"player.h"
+	"Card.h"
+	"Role.h"
+
+1337726654 source:c:\users\giova\workspace\lo re 2\interface.cpp
+	<iostream>
+	<sstream>
+	<limits>
+	<string>
+	"interface.h"
+	"loRe2.h"
+	"gameState.h"
+	"player.h"
+	"Choice.h"
+	"Role.h"
+
+1337726654 source:c:\users\giova\workspace\lo re 2\main.cpp
+	<iostream>
+	"interface.h"
+	"Game.h"
+	"loRe2.h"
+
+1271195230 source:c:\users\giova\workspace\lo re 2\playcard.cpp
+	<iostream>
+	"Card.h"
+	"Deck.h"
+	"Choice.h"
+	"interface.h"
+	"loRe2.h"
+
+1270151536 source:c:\users\giova\workspace\lo re 2\test\t1_card.cpp
+	<iostream>
+	"../Card.h"
+
+1270978863 source:c:\users\giova\workspace\lo re 2\test\t2_deck.cpp
+	<iostream>
+	"../loRe2.h"
+	"../Deck.h"
+
+1270371656 source:c:\users\giova\workspace\lo re 2\test\t3_choice.cpp
+	"../Choice.h"
+	<iostream>
+
+1270214001 source:c:\users\giova\workspace\lo re 2\test\t4_role.cpp
+	"../Role.h"
+	"../loRe2.h"
+	"../gameState.h"
+	<iostream>
+	<string>
+
+1271192468 source:c:\users\giova\workspace\lo re 2\test\t5_interface.cpp
+	<iostream>
+	"../gameState.h"
+	"../Role.h"
+	"../Choice.h"
+	"../loRe2.h"
+	"../interface.h"
+
+1267193491 source:c:\users\giova\workspace\lo re 2\test\t6_game.cpp
+	"../Game.h"
+	<iostream>
+
+1271192771 source:c:\users\giova\workspace\lo re 2\test\test_all.cpp
+	<iostream>
+	"../interface.h"
+
+1337726654 source:c:\users\giova\workspace\lo re 2\role-choosecard.cpp
+	<iostream>
+	"Card.h"
+	"Deck.h"
+	"Role.h"
+	"Choice.h"
+	"interface.h"
+	"loRe2.h"
+
