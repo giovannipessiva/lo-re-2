@@ -1,0 +1,14 @@
+giocatore: player
+mazzo: deck (pack)
+carte che ha in mano un giocatore: hand
+
+semi: suits
+cuori: Hearts
+quadri: Diamonds
+fiori: Clubs
+picche: Spades
+
+asso: ace
+re: king
+donna: queen
+fante: knave
