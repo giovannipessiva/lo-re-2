@@ -1,0 +1,52 @@
+	---LO RE---
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+          SCOPO DEL GIUOCO
+ Bisogna finire le carte; in base all'ordine con cui si finiscono le carte
+sono assegnati dei ruoli per la partita successiva.
+------------------------------------------------------------------------------
+          LE CARTE
+ Si gioca con un mazzo di carte normali (francesi) senza jolly;
+all'inizio della partita tutte le carte vengono distribuite fra i giocatori,
+quindi il numero di carte iniziali dipende dal numero totale di giocatori.
+ L'ordine e': 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 - Fante - Donna - Re - asso - 2
+la carta piu' forte e' il 2.
+------------------------------------------------------------------------------
+          I RUOLI
+I ruoli (assegnati dalla prima partita) sono:
+ -Lo Re  (da' le sue 2 carte piu' basse allo Schiavo)
+ -Il Cavaliere  (da' la sua carta piu' bassa alla Puttana)
+ -Il Ladro  (da' la sua carta peggiore alla Puttana)
+ -Il Mercante  (puo' scambiare una carta; NON IMPLEMENTATO)
+ -Il Pollo  (da' una carta a caso al Ladro)
+ -La Puttana  (da' la sua carta piu' alta al cavaliere)
+ -Lo Schiavo  (da' le sue 2 carte piu' alte a Lo Re)
+
+ I ruoli determinano anche chi butta per primo e il senso del giro;
+comincia Lo Re, e si prosegue nel verso del piu' alto in grado
+fra i due giocatori a destra e a sinistra de Lo Re.
+------------------------------------------------------------------------------
+          IL GIOCO
+ Bisogna necessariamente superare il valore della/e carta/e che sono state
+buttate; bisogna mantenere o aumentare il numero di carte.
+Es:                Pippo butta Fante x2.
+        Chi viene dopo potrebbe giocare Donna x2, Asso x4, 2 x3...
+       se non ha almeno una coppia di carte di valore superiore al Fante,
+       o preferisce non buttare, allora puo' passare.
+ Se nessuno puo' superare, chi ha buttato le carte vincenti puo' ricominciare
+il giro buttando le carte che preferisce; ma se il giocatore vincente
+ha finito le carte, tocca a chi ha il ruolo piu' alto.
+------------------------------------------------------------------------------
+          FUNZIONALITA' DEL PROGRAMMA
+ Ogni volta che tocca all'utente, si puo' scegliere quali carte buttare
+(eventualmente anche 'spezzando' coppie, tris e poker), se passare (scrivi 0)
+o chiedere un suggerimento (scrivi 666).
+In caso la carta selezionata non sia giocabile ne viene chiesta un'altra.
+ Alla fine di ogni partita vengono visualizzati i ruoli, da quanto tempo
+i giocatori hanno quel ruolo, e di quante posizioni sono saliti/scesi
+rispetto alla prima partita.
+ Vi e' la possibilità di salvare e caricare partite (contenenti i dati
+e i ruoli dei giocatori), o creare una nuova partita con n giocatori
+(n compreso fra 3 e 7); in questo caso vengono chiesti i nomi dei giocatori
+e il livello di intelligenza degli avversari dell'utente.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
